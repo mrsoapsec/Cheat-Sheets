@@ -1,5 +1,9 @@
 # Cheat-Sheets
 
+Google Dorking
+
+![photo_5149963232025357169_y](https://github.com/mrsoapsec/Cheat-Sheets/assets/112026131/9a0ec771-b9d6-42d0-98ef-d8b9cdd47ed7)
+
 ChatGpt
 
 ![IMG_0920](https://github.com/mrsoapsec/Cheat-Sheets/assets/112026131/ac64456e-d58c-4e12-a5f9-fa3a7f187bce)
