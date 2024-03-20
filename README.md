@@ -24,3 +24,5 @@ CyberCrime
 
 ![photo_5120953103057792308_y](https://github.com/mrsoapsec/Cheat-Sheets/assets/112026131/6c4d7c66-75dc-436a-abda-207ae6f57b49)
 
+SASE x SSE
+![SSE-vs-SASE-SSE-BANNERS-JUST-BLOG-1-1024x678](https://github.com/mrsoapsec/Cheat-Sheets/assets/112026131/cbc44c72-e88c-425e-b3e1-b155ca597d85)
