@@ -10,6 +10,10 @@ Google Dorking
 
 ![photo_5149963232025357169_y](https://github.com/mrsoapsec/Cheat-Sheets/assets/112026131/9a0ec771-b9d6-42d0-98ef-d8b9cdd47ed7)
 
+Osint Email
+
+![1690960234_260165781](https://github.com/mrsoapsec/Cheat-Sheets/assets/112026131/d2456653-0aa5-48db-9781-2a4533470153)
+
 ChatGpt
 
 ![IMG_0920](https://github.com/mrsoapsec/Cheat-Sheets/assets/112026131/ac64456e-d58c-4e12-a5f9-fa3a7f187bce)
