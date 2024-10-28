@@ -40,3 +40,8 @@ CTI
 
 SASE x SSE
 ![SSE-vs-SASE-SSE-BANNERS-JUST-BLOG-1-1024x678](https://github.com/mrsoapsec/Cheat-Sheets/assets/112026131/cbc44c72-e88c-425e-b3e1-b155ca597d85)
+
+WireShark
+![photo_4956704525637496586_y](https://github.com/user-attachments/assets/be82de02-1ae0-44ce-bb4c-a87b72a9d8e7)
+
+
