@@ -26,6 +26,8 @@ Mitre Attack
 
 ![photo_5129727935991885481_y](https://github.com/mrsoapsec/Cheat-Sheets/assets/112026131/7bd3f785-187d-4295-b410-a7c78b8abcf7)
 
+![image](https://github.com/user-attachments/assets/c785add6-28d2-4615-b639-6d126a72ec6f)
+
 Cyber Kill Chain x Mitre
 
 ![Screenshot_20231208_074202_LinkedIn](https://github.com/mrsoapsec/Cheat-Sheets/assets/112026131/e6cd0733-862f-4c0f-bce6-a429ce626956)
