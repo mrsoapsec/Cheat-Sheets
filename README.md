@@ -30,6 +30,9 @@ Mitre Attack
 
 Cyber Kill Chain x Mitre
 
+Cyber Kill Chain -> É um modelo que descreve as etapas gerais de um ataque cibernético, desde o reconhecimento até as ações no objetivo.
+Mitre Attack -> uma base de dados detalhada que mapeia táticas, técnicas e procedimentos (TTPs) usados por adversários em ataques cibernéticos.
+
 ![Screenshot_20231208_074202_LinkedIn](https://github.com/mrsoapsec/Cheat-Sheets/assets/112026131/e6cd0733-862f-4c0f-bce6-a429ce626956)
 
 Dark Web
