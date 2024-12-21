@@ -4,7 +4,8 @@ Cyber Security
 
 ![GI8SAoKWAAAMyLH](https://github.com/mrsoapsec/Cheat-Sheets/assets/112026131/bd1460c6-ce08-48a5-b289-0e209fa7a30e)
 
-![image](https://github.com/mrsoapsec/Cheat-Sheets/assets/112026131/aa7679ff-0fdc-42aa-b63c-13cea8f63b87)
+![image](https://github.com/user-attachments/assets/3ecc81e8-643a-422d-85dc-5f81996afea6)
+
 
 Google Dorking
 
