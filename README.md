@@ -23,6 +23,10 @@ Windows Security Log
 
 ![IMG_0921](https://github.com/mrsoapsec/Cheat-Sheets/assets/112026131/e99aa610-bd8b-4f73-acbf-33a9f2f4fbd2)
 
+Windows Security For Defenders
+
+![GnpBc29WoAA1EJD](https://github.com/user-attachments/assets/12f71436-e24a-46af-b545-9eef81610ac0)
+
 Mitre Attack
 
 ![photo_5129727935991885481_y](https://github.com/mrsoapsec/Cheat-Sheets/assets/112026131/7bd3f785-187d-4295-b410-a7c78b8abcf7)
